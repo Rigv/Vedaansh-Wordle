@@ -2,7 +2,7 @@
   "name": "wordle-clone",
   "version": "0.1.0",
   "private": false,
-  "homepage":"https://Rigv.github.io",
+  "homepage":"https://Rigv.github.io/Vedaansh-Wordle/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.14.1",
